@@ -1,9 +1,7 @@
-# Part 3
+# Part 2: Communicating with server
 
-## Content
+## Contents
 
-- [Exercise 3.1-3.22 phonebook](./phonebook)
-
-## Heroku Application Link
-
-- https://phone-mswd.herokuapp.com/
+- [Exercise 2.1-2.5: Course information](./courseinfo)
+- [Exercise 2.6-2.11, 2.15-2.20: The Phonebook](./phonebook)
+- [Exercise 2.12-2.14: Data for countries](./countries)
